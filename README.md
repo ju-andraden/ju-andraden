@@ -22,7 +22,4 @@ Eu sou a Juliana Andrade e atualmente trabalho com back-end. 💻
  
 <div>
   <a href="https://www.linkedin.com/in/juliana-andradens/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-  ![Snake animation](https://github.com/ju-andraden/ju-andraden/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
